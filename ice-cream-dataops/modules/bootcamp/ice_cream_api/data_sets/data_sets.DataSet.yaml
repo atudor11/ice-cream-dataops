@@ -1,0 +1,3 @@
+externalId: {{ icapi_ds_external_id }}
+name: asset:ice_cream
+description: Ice Cream Factory Source Data
